@@ -1,0 +1,14 @@
+
+header img#baner {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 10%;
+    height: auto;
+}
+
+.bg-dark {
+    background-color: #1b396a !important;
+    border-color: #000000 ;
+}
+
