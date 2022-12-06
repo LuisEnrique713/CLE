@@ -10,7 +10,7 @@ $this->title = 'CLE';
 <link rel="stylesheet" href="https://cdn.rawgit.com/zkreations/SheetSlider/master/dist/sheetslider.min.css"/>
 
 <center> <link rel="stylesheet" href="https://cdn.rawgit.com/zkreations/SheetSlider/master/dist/sheetslider.min.css"/>
-                <img src="imagenes/escudo.png" class="mx-auto d-block left-block" style= "width:100px; height:100px;"/img></center>
+                <img src="https://sgi.valladolid.tecnm.mx/Imagenes/Escudo_ITSVA_registrado_copia.png" class="mx-auto d-block left-block" style= "width:100px; height:100px;"/img></center>
 
 </center>
 
@@ -60,10 +60,11 @@ OwlCarouselWidget::begin([
 ?>
 
 
-<div class="item-class"><img src="../imagenes/ing1.jpeg" alt="Image 3" style= "width:400px; height:300px;"></div>
-<div class="item-class"><img src="../imagenes/rompecabeza.jpg" alt="Image 4" style= "width:400px; height:300px;"></div>
-<div class="item-class"><img src="../imagenes/fondo.jpeg" alt="Image 1" style= "width:400px; height:300px"></div>
-<div class="item-class"><img src="../imagenes/fondo2.jpg" alt="Image 2" style= "width:400px; height:300px;"></div>
+<div class="item-class"><img src="https://educacion30.b-cdn.net/wp-content/uploads/2021/11/english-british-england-language-education-concept-1-min-978x652.jpg" alt="Image 3" style= "width:400px; height:300px;"></div>
+<div class="item-class"><img src="https://yucataninforma.org/wp-content/uploads/2021/08/240908061.jpg" alt="Image 2" style= "width:400px; height:300px;"></div>
+<div class="item-class"><img src="https://colombianabroad.com/wp-content/uploads/aprender-ingles-online.jpg" alt="Image 4" style= "width:400px; height:300px;"></div>
+<div class="item-class"><img src="https://www.elpuntosobrelai.com/wp-content/uploads/2021/01/140422706_1439605329578945_4663778482269476324_o.jpg" alt="Image 1" style= "width:400px; height:300px"></div>
+
 
 
 
