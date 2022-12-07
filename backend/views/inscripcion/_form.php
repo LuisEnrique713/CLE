@@ -34,9 +34,13 @@ form * {
 
     <?php $form = ActiveForm::begin(); ?>
 
+<p> 
 
+<img src="https://cdn-icons-png.flaticon.com/512/3188/3188168.png" align="right" style= "width:420px; height:380px;"/img>
+
+</p>
     
-    <div class="col-lg-5">
+    <div class="col-lg-7">
 
 
     <?= $form->field($model, 'Nombre_Del_Estudiante')->textInput(['maxlength' => true]) ?>
@@ -47,7 +51,7 @@ form * {
     
 
       </div>
-<div class="col-lg-5">
+<div class="col-lg-7">
 
       <?= $form->field($model, 'nivel_id')->widget(Select2::classname(), [
         'data' => ArrayHelper::map(Nivel::find()->all(), 'id', 'Nombre_Mcer'),

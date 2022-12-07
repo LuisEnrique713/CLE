@@ -26,7 +26,14 @@ form * {
 </style> 
 
     <?php $form = ActiveForm::begin(); ?>
-    <div class="col-lg-5">
+
+<p> 
+<p align="right">Numero de Teléfono :  983 86 78 212 </p> 
+<p align="right">Horario de oficina de  12:00 – 16:00</p> 
+<img src="https://cdn-icons-png.flaticon.com/512/2343/2343694.png" align="right" style= "width:420px; height:380px;"/img>
+</p>
+
+    <div class="col-lg-7">
     <?= $form->field($model, 'Nombre')->textInput(['maxlength' => true]) ?>
 
     <?= $form->field($model, 'Correo')->textInput(['maxlength' => true]) ?>

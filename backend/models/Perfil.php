@@ -70,7 +70,7 @@ class Perfil extends \yii\db\ActiveRecord
             'Telefono' => Yii::t('app', 'Teléfono'),
             'Lugar_De_Origen' => Yii::t('app', 'Lugar De Origen'),
             'Grupo_Etnico' => Yii::t('app', 'Grupo Etnico Al Que Perteneces'),
-            'Porcentaje_Idioma' => Yii::t('app', 'Porcentaje De Idioma Que Habla'),
+            'Porcentaje_Idioma' => Yii::t('app', 'Porcentaje De Idioma Etnico Que Habla'),
             'user_id' => Yii::t('app', 'Matrícula o Usuario Con El Que Se Registro'),
             'curso_id' => Yii::t('app', 'Módulo de inglés'),
         ];

@@ -33,7 +33,7 @@ body {
 
     <p> 
 
-<img src="imagenes/111.png" align="right" style= "width:550px; height:550px;"/img>
+<img src="https://cdn-icons-png.flaticon.com/512/3456/3456426.png" align="right" style= "width:550px; height:550px;"/img>
 </p>
     
     <div class="col-lg-5">

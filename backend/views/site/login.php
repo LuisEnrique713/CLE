@@ -127,7 +127,7 @@ body {
             <form>
                 
                  <center> <link rel="stylesheet" href="https://cdn.rawgit.com/zkreations/SheetSlider/master/dist/sheetslider.min.css"/>
-                <img src="imagenes/login.png" class="mx-auto d-block left-block" style= "width:100px; height:100px;"/img></center>
+                <img src="https://cdn-icons-png.flaticon.com/512/2550/2550383.png" class="mx-auto d-block left-block" style= "width:100px; height:100px;"/img></center>
 
 
                 <h3><?= Html::encode($this->title) ?></h3>

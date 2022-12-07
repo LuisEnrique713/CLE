@@ -33,7 +33,7 @@ body {
     </div>
 
     
-    <img style="width:40%;" src=<?php echo Url::to('@web/imagenes/candado.jpg', true); ?> />
+    <img style="width:40%;" src=<?php echo Url::to('https://img.freepik.com/vector-premium/ilustracion-vector-acceso-denegado-inicio-sesion-sistema-rechaza-contrasena-error-entrada-al-dispositivo-informatico-que-muestra-que-usuario-no-tiene-permiso-desarrollo-sitios-web-o-dispositivos-moviles_2175-1275.jpg?w=2000', true); ?> />
      </Center>   
 
 </div>
