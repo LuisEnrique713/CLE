@@ -95,6 +95,10 @@ body {
   background-image: url('https://static.wixstatic.com/media/a6f1e7_7dc1568d62734a679dbc27e7858f6006~mv2_d_5184_3456_s_4_2.jpg/v1/fill/w_1920,h_1280,al_c,q_90,usm_0.66_1.00_0.01/a6f1e7_7dc1568d62734a679dbc27e7858f6006~mv2_d_5184_3456_s_4_2.jpg');
 }
 </style> 
+<p align="right">
+
+            <a href="http://admin.cle.valladolid.tecnm.mx/index.php?r=site%2Flogin" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Iniciar sesion</a>
+            <p/>
     
     <div class="row">
         <div class="col-lg-5">
@@ -113,6 +117,11 @@ body {
                 <div class="form-group">
                     <?= Html::submitButton('Signup', ['class' => 'btn btn-primary', 'name' => 'signup-button']) ?>
                 </div>
+
+                <br>
+                    Olvidaste tu contraseña <?= Html::a('Restablecer', ['site/request-password-reset']) ?>.
+                    <br>
+                    Necesitas un correo de verificación <?= Html::a('Reenviar', ['site/resend-verification-email']) ?>
 
             <?php ActiveForm::end(); ?>
         </div>
