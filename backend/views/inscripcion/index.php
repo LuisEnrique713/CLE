@@ -154,10 +154,7 @@ h1 {
             
             ],
             
-            [
-                'attribute' => 'perfil_id',
-                'value' => 'perfil.Nombre_Estudiante',
-            ],
+            //'perfil_id',
             
             [
                 'class' => ActionColumn::className(),
