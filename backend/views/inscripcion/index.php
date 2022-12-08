@@ -144,16 +144,11 @@ h1 {
             'Comprobante_De_pago',
             [
                 'attribute' => 'nivel_id',
-                'value' => 'nivel.Nombre_Mcer',
-            
-            ],
+                'value' => 'nivel.Nombre_Mcer',],
 
             [
                 'attribute' => 'curso_id',
-                'value' => 'curso.Nombre_Del_Curso',
-            
-            ],
-            
+                'value' => 'curso.Nombre_Del_Curso',],
             //'perfil_id',
             
             [

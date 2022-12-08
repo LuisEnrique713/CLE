@@ -139,10 +139,10 @@ h1 {
             //'id',
             'Dias_De_Clase',
             'Hora_De_clase',
-            [
+             [
                 'attribute' => 'curso_id',
                 'value' => 'curso.Nombre_Del_Curso',
-            ],
+            ],
             [
                 'class' => ActionColumn::className(),
                 'urlCreator' => function ($action, Horario $model, $key, $index, $column) {

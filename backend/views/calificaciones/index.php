@@ -136,19 +136,16 @@ h1 {
             //'id',
             [
                 'attribute' => 'perfil_id',
-                'value' => 'perfil.Nombre_Estudiante',
-            
-            ],
+                'value' => 'perfil.Nombre_Estudiante',],
             [
                 'attribute' => 'curso_id',
-                'value' => 'curso.Nombre_Del_Curso',
-            ],
+                'value' => 'curso.Nombre_Del_Curso',],
             'Parcial_1',
             'Parcial_2',
             'Parcial_3',
             'Parcial_4',
             'Promedio_Total',
-            
+
             [
                 'class' => ActionColumn::className(),
                 'urlCreator' => function ($action, Calificaciones $model, $key, $index, $column) {

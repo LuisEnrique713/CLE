@@ -79,7 +79,7 @@ body {
             [
                 'attribute' => 'curso_id',
                 'value' => 'curso.Nombre_Del_Curso',
-            ],
+            ],
 
             
             [
