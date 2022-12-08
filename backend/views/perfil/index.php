@@ -76,7 +76,10 @@ body {
             //'Grupo_Etnico',
             //'Porcentaje_Idioma',
             //'user_id',
-            'curso_id',
+            [
+                'attribute' => 'curso_id',
+                'value' => 'curso.Nombre_Del_Curso',
+            ],
 
             
             [

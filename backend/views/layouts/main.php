@@ -251,13 +251,6 @@ if ( Yii::$app->user->can('sa') || Yii::$app->user->can('docente') ){
 <br>
 
 
-<footer class="footer mt-auto py-3 text-muted">
-    <div class="container">
-        <p class="float-start">&copy; <?= Html::encode(Yii::$app->name) ?> <?= date('Y') ?></p>
-        
-    </div>
-</footer>
-
 <?php $this->endBody() ?>
 </body>
 </html>

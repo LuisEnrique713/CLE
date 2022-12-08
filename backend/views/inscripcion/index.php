@@ -142,9 +142,22 @@ h1 {
             'Nombre_Del_Estudiante',
             'matricula',
             'Comprobante_De_pago',
-            'nivel_id',
-            'curso_id',
-            'perfil_id',
+            [
+                'attribute' => 'nivel_id',
+                'value' => 'nivel.Nombre_Mcer',
+            
+            ],
+
+            [
+                'attribute' => 'curso_id',
+                'value' => 'curso.Nombre_Del_Curso',
+            
+            ],
+            
+            [
+                'attribute' => 'perfil_id',
+                'value' => 'perfil.Nombre_Estudiante',
+            ],
             
             [
                 'class' => ActionColumn::className(),
