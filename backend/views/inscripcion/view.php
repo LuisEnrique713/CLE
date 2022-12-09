@@ -38,7 +38,7 @@ body {
             'id',
             'Nombre_Del_Estudiante',
             'matricula',
-            'Comprobante_De_pago',
+            'Comprobante_De_pago:url',
             'curso_id',
             'perfil_id',
             'nivel_id',

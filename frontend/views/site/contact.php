@@ -39,6 +39,79 @@ font-family: Arial;
 body {
   background-image: url('https://static.wixstatic.com/media/a6f1e7_7dc1568d62734a679dbc27e7858f6006~mv2_d_5184_3456_s_4_2.jpg/v1/fill/w_1920,h_1280,al_c,q_90,usm_0.66_1.00_0.01/a6f1e7_7dc1568d62734a679dbc27e7858f6006~mv2_d_5184_3456_s_4_2.jpg');
 }
+table {
+  width: 100%;
+  background: white;
+  margin-bottom: 1.25em;
+  border: solid 1px #dddddd;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+table tr th,
+table tr td {
+  padding: 0.5625em 0.625em;
+  font-size: 0.875em;
+  color: #222222;
+  border: 1px solid #dddddd;
+}
+
+table tr.even,
+table tr.alt,
+table tr:nth-of-type(even) {
+  background: #f9f9f9;
+}
+
+@media only screen and (max-width: 50%) {
+    table.resp,
+    .resp thead,
+    .resp tbody,
+    .resp tr,
+    .resp th,
+    .resp td,
+    .resp caption {
+      display: block;
+    }
+    
+    table.resp {
+      border: none
+    }
+    
+    .resp thead tr {
+      display: none;
+    }
+    
+    .resp tbody tr {
+      margin: 1em 0;
+      border: 1px solid #2ba6cb;
+    }
+    
+    .resp td {
+      border: none;
+      border-bottom: 1px solid #dddddd;
+      position: relative;
+      padding-left: 45%;
+      text-align: left;
+    }
+    
+    .resp tr td:last-child {
+      border-bottom: 1px double #dddddd;
+    }
+    
+    .resp tr:last-child td:last-child {
+      border: none;
+    }
+    
+    .resp td:before {
+      position: absolute;
+      top: 6px;
+      left: 6px;
+      width: 45%;
+      padding-right: 10px;
+      white-space: nowrap;
+      text-align: left;
+      font-weight: bold;
+    }
 </style> 
 
 
@@ -68,28 +141,54 @@ body {
 <!-- ==== CONVOCATORIAS ==== -->
 
 
-<p style="text-align:justify">&nbsp;</p>
-
-</p>        </article>
-        </div>
-    </div>
-</div>
-<div class="row">
-    <div id="w10" class="grid-view"><div class="summary">Showing <b>1-7</b> of <b>7</b> items.</div>
-<table class="table table-striped table-bordered"><thead>
-<tr><th>#</th><th>Archivo</th></tr>
+<table class="resp">
+<thead>
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Archivo</th>
+    
+  </tr>
 </thead>
 <tbody>
-<tr data-key="0"><td>1</td><td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/GejltlzmXd__AkcmZjhFacBQdoqwrEuL.pdf"> CONVOCATORIA 1ER SEMESTRE 2022B</a></td></tr>
-<tr data-key="1"><td>2</td><td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/_H3GxzwTG-uyh_rb7VgcB9lL2rR3fRZa.pdf">CONVOCATORIA 3RO/5TO SEMESTRE 2022B</a></td></tr>
-<tr data-key="2"><td>3</td><td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/OBvm1Y3SdvIw5NiHD95lJro7FuRkKw4g.pdf">CONVOCATORIA INTENSIVO ONLINE MATRICULA 16/15 Y ANTERIORES</a></td></tr>
-<tr data-key="3"><td>4</td><td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/ebeoTG7TATXTvKAbUNu3YM12Tv91qvyB.pdf">CONVOCATORIA IRREGULARES 2022B</a></td></tr>
-<tr data-key="4"><td>5</td><td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/OBvm1Y3SdvIw5NiHD95lJro7FuRkKw4g.pdf">CONVOCATORIA PREPARACION OOPT 2022B</a></td></tr>
-<tr data-key="5"><td>6</td><td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/cwaDUCsUpOwOO3-P6ND7sTQ2l4L2d546.pdf">CONVOCATORIA RESIDENTES Y SEVICIO SOCIAL INGLES 2022B</a></td></tr>
-<tr data-key="6"><td>7</td><td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/Yx-0UC2a2tEb8wW_Q4dkfvCeY5Ui_JT3.pdf">CONVOCATORIA PERSONAL DOCENTE Y NO DOCENTE 2022B</a></td></tr>
+  <tr>
+    <td>1</td>
+    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/GejltlzmXd__AkcmZjhFacBQdoqwrEuL.pdf"> CONVOCATORIA 1ER SEMESTRE 2022B</a></td>
+    
+  </tr>
+   <tr>
+    <td>2</td>
+    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/_H3GxzwTG-uyh_rb7VgcB9lL2rR3fRZa.pdf">CONVOCATORIA 3RO/5TO SEMESTRE 2022B</a></td>
+    
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/OBvm1Y3SdvIw5NiHD95lJro7FuRkKw4g.pdf">CONVOCATORIA INTENSIVO ONLINE MATRICULA 16/15 Y ANTERIORES</a></td>
+    
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/ebeoTG7TATXTvKAbUNu3YM12Tv91qvyB.pdf">CONVOCATORIA IRREGULARES 2022B</a></td>
+    
+  </tr>
+  <tr>
+    <td>5 </td>
+    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/OBvm1Y3SdvIw5NiHD95lJro7FuRkKw4g.pdf">CONVOCATORIA PREPARACION OOPT 2022B</a></td>
+    
+  </tr>
+  <tr>
+    <td>6 </td>
+    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/cwaDUCsUpOwOO3-P6ND7sTQ2l4L2d546.pdf">CONVOCATORIA RESIDENTES Y SEVICIO SOCIAL INGLES 2022B</a></td>
+    
+  </tr>
 
+   <tr>
+    <td>7</td>
+    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/Yx-0UC2a2tEb8wW_Q4dkfvCeY5Ui_JT3.pdf">CONVOCATORIA PERSONAL DOCENTE Y NO DOCENTE 2022B</a></td>
+    
+  </tr>
+</tbody>
+</table>
 
-</tbody></table>
 
 
 
