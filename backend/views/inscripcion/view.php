@@ -39,7 +39,7 @@ body {
             'Nombre_Del_Estudiante',
             'matricula',
             [
-                'label' => '$data-> Comprobante_De_pago',
+                'label' => 'Comprobante_De_pago',
                 'attribute' => 'Comprobante_De_pago',
                 'format' => 'url',    
                 'value' => function ($data) {
