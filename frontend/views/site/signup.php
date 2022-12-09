@@ -29,11 +29,11 @@ body {
 }
 
 form {
-    height: 615px;
+    height: 570px;
     width: 400px;
     background-color: rgba(22, 136, 255, 0.13);
     position: absolute;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -42%);
     top: 50%;
     left: 50%;
     border-radius: 10px;
@@ -97,7 +97,7 @@ body {
 </style> 
 <p align="right">
 
-            <a href="http://admin.cle.valladolid.tecnm.mx/index.php?r=site%2Flogin" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Iniciar sesion</a>
+            <a href="http://admin.cle.valladolid.tecnm.mx/index.php?r=site%2Flogin" class="btn btn-primary btn-lg" role="button" aria-pressed="true">Iniciar sesion</a>
             <p/>
     
     <div class="row">
