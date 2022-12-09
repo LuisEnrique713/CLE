@@ -38,7 +38,14 @@ body {
             'id',
             'Nombre_Del_Estudiante',
             'matricula',
-            'Comprobante_De_pago:url',
+            [
+                'label' => '$data-> Comprobante_De_pago',
+                'attribute' => 'Comprobante_De_pago',
+                'format' => 'url',    
+                'value' => function ($data) {
+                    return (Yii::getAlias('http://admin.cle.valladolid.tecnm.mx/'). $data['Comprobante_De_pago']);
+                },
+            ],
             'curso_id',
             'perfil_id',
             'nivel_id',
