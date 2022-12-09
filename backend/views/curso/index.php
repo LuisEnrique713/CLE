@@ -155,6 +155,7 @@ h1 {
 
         'pjax' => true,
         'responsive' => true,
+        'responsiveWrap' => true,
         'hover' => true,
         'toggleDataOptions' => [
             'maxCount' => true,
