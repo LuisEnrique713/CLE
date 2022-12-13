@@ -29,18 +29,6 @@ form * {
 </style> 
 
     <?php $form = ActiveForm::begin(); ?>
-
-    <?= $form->field($model, 'Parcial_1')->textInput() ?>
-
-    <?= $form->field($model, 'Parcial_2')->textInput() ?>
-
-    <?= $form->field($model, 'Parcial_3')->textInput() ?>
-
-    <?= $form->field($model, 'Parcial_4')->textInput() ?>
-
-    <?= $form->field($model, 'Promedio_Total')->textInput() ?>
-
-
     <?= $form->field($model, 'perfil_id')->widget(Select2::classname(), [
         'data' => ArrayHelper::map(Perfil::find()->all(), 'id', 'Nombre_Estudiante'),
 
@@ -74,6 +62,19 @@ form * {
         ],
 
         ]);?>
+
+    <?= $form->field($model, 'Parcial_1')->textInput() ?>
+
+    <?= $form->field($model, 'Parcial_2')->textInput() ?>
+
+    <?= $form->field($model, 'Parcial_3')->textInput() ?>
+
+    <?= $form->field($model, 'Parcial_4')->textInput() ?>
+
+    <?= $form->field($model, 'Promedio_Total')->textInput() ?>
+
+
+    
 
     <div class="form-group">
         <?= Html::submitButton(Yii::t('app', 'Guardar'), ['class' => 'btn btn-success']) ?>

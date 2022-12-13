@@ -141,14 +141,7 @@ h1 {
             //'id',
             'Nombre_Del_Estudiante',
             'matricula',
-            [
-                'label' => 'Comprobante_De_pago',
-                'attribute' => 'Comprobante_De_pago',
-                'format' => 'url',    
-                'value' => function ($data) {
-                    return (Yii::getAlias('http://admin.cle.valladolid.tecnm.mx/'). $data['Comprobante_De_pago']);
-                },
-            ],
+            'Comprobante_De_pago',           
             [
                 'attribute' => 'nivel_id',
                 'value' => 'nivel.Nombre_Mcer',],
