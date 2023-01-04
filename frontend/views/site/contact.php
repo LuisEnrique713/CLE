@@ -18,7 +18,7 @@ $this->params['breadcrumbs'][] = $this->title;
      <h1><?= Html::encode($this->title) ?></h1> 
 
     
-    <h5>En está seccion encontraras información acerca de convocatorias y planes de estudio</h5>
+    <h5>En esta sección encontrarás información acerca de convocatorias y planes de estudio</h5>
     <br>
 
 <!-- ==== FONDO ==== -->  
@@ -125,7 +125,7 @@ table tr:nth-of-type(even) {
 <div class="row">
     <div class="container">
         <div class="TECNOLÓGICO">
-            <center><h3> CONVOCATORIAS Y PLANES DE ESTUDIO INGLES</h3></center>
+            <center><h3> CONVOCATORIAS Y PLANES DE ESTUDIO INGLÉS</h3></center>
         </div>
         <div class="text-justify">
         <article>
@@ -225,7 +225,7 @@ table tr:nth-of-type(even) {
 <div class="row">
 
             <div class="col-lg-4">
-               <center> <h4>CERTIFICACION CAMBRIDGE</h4></center>
+               <center> <h4>CERTIFICACIÓN CAMBRIDGE</h4></center>
                 <img src="https://cenathalie.com/wp-content/uploads/2017/06/niveles-certificados-cambridge.jpg" class="mx-auto d-block left-block" style= "width:325px; height:210px;">
                 <br>
 
@@ -241,7 +241,7 @@ table tr:nth-of-type(even) {
 
             </div>
             <div class="col-lg-4">
-               <center> <h4>CERTIFICACION TOEFL</h4></center>
+               <center> <h4>CERTIFICACIÓN TOEFL</h4></center>
                 <img src="https://www.abaenglish.com/es/wp-content/uploads/sites/2/2022/06/Screenshot_36-1.png" class="mx-auto d-block left-block" style= "width:325px; height:210px;">
                 <br>
 
@@ -252,7 +252,7 @@ table tr:nth-of-type(even) {
 
             </div>
             <div class="col-lg-4">
-                <center><h4>CERTIFICACION IELTS</h4></center>
+                <center><h4>CERTIFICACIÓN IELTS</h4></center>
                 <img src="https://f9y7c7c2.rocketcdn.me/wp-content/uploads/2022/07/%C2%BFQue-es-IELTS-Todo-sobre-el-este-examen-de-ingles-con-certificacion.png" class="mx-auto d-block left-block" style= "width:305px; height:200px;">
                 <br>
                 

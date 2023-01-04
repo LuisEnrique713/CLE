@@ -105,7 +105,7 @@ body {
             <?php $form = ActiveForm::begin(['id' => 'form-signup']); ?>
 
 
-                <center> <h1>Registrate</h1></center> 
+                <center> <h1>Regístrate</h1></center> 
 
 
                 <?= $form->field($model, 'username')->textInput(['autofocus' => true]) ?>
