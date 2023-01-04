@@ -74,7 +74,7 @@ AppAsset::register($this);
             ['label' => '  ________________________________', '' => [' ', ]],
         
 
-            ['label' => '  Crear convocatorias', 'url' => ['/convocatorias/create', 'tag' => 'new']],
+            ['label' => '  Crear Convocatorias', 'url' => ['/convocatorias/create', 'tag' => 'new']],
             ['label' => '  Crear Cursos', 'url' => ['curso/create', 'tag' => 'new']],
             ['label' => '  Crear Horarios', 'url' => ['horario/create', 'tag' => 'new']],
             ['label' => '  Crear Niveles MCER', 'url' => ['nivel/create']],
