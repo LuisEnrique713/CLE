@@ -63,7 +63,7 @@ body {
 <br>
 <h5 style="text-align:justify">De acuerdo al manual de lineamientos de los Tecnológicos Nacionales de México, capítulo 14 del lineamiento para la titulación integral, apartado 14.4.1.2 de los requisitos de titulación integral se establece:<br>
 <br>
-La acreditación de un programa de lengua extranjera, presentando un certificado o constancia emitido por: a) una Institución u Organismo Nacional o Internacional con validez oficial o b) las Coordinaciones de Lenguas Extranjeras de los Institutos Tecnológicos registradas oficialmente por la Secretaría Académica, de Investigación e Innovación del TecNM. El certificado o constancia debe validar la capacidad de entender, elaborar y comunicar de manera oral y escrita nociones estándar en el ámbito personal así como profesional, de acuerdo al Nivel B1 del Marco Común Europeo de Referencia (MCER) para el caso del idioma inglés.<br>
+La acreditación de un programa de lengua extranjera, presentando un certificado o constancia emitido por: a) una Institución u Organismo Nacional o Internacional con validez oficial o b) las Coordinaciones de Lenguas Extranjeras de los Institutos Tecnológicos registradas oficialmente por la Secretaría Académica, de Investigación e Innovación del TecNM. El certificado o constancia debe validar la capacidad de entender, elaborar y comunicar de manera oral y escrita nociones estándar en el ámbito personal, así como profesional, de acuerdo al Nivel B1 del Marco Común Europeo de Referencia (MCER) para el caso del idioma inglés.<br>
 
 </h5 >
 <!-- ==== LINEAMIENTO 2 ==== -->

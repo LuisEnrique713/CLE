@@ -38,6 +38,15 @@ class SignupForm extends Model
         ];
     }
 
+    public function attributeLabels()
+    {
+        return [
+            'username' => 'Usuario o matricula',
+            'email' => 'Correo Electronico',
+            'password' => 'Contraseña',
+                                       ];
+    }
+
     /**
      * Signs user up.
      *
