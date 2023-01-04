@@ -43,7 +43,7 @@ AppAsset::register($this);
 
     ];
     if (Yii::$app->user->isGuest) {
-        $menuItems[] = ['label' => ' Signup', 'url' => ['/site/signup']];
+        $menuItems[] = ['label' => ' Regístrate', 'url' => ['/site/signup']];
     }
 
     echo Nav::widget([
