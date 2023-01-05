@@ -42,7 +42,7 @@ class SignupForm extends Model
     {
         return [
             'username' => 'Usuario o matricula',
-            'email' => 'Correo Electronico',
+            'email' => 'Correo Electrónico',
             'password' => 'Contraseña',
                                        ];
     }
