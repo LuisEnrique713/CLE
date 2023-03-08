@@ -23,7 +23,7 @@ body {
     <img src="https://sgi.valladolid.tecnm.mx/Imagenes/Escudo_ITSVA_registrado_copia.png" style= "width:100px; height:100px;"/img>
     <div class="jumbotron">
         
-        <p class="lead"> Instituto Tecnológico Superior De Valladolid</p>
+        <p class="lead"> Instituto Tecnológico Superior De Valladolidd</p>
         <h1>Coordinación de Lenguas Extranjeras</h1>
     </div>
 
