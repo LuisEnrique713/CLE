@@ -10,7 +10,7 @@ $this->title = 'CLE';
 <link rel="stylesheet" href="https://cdn.rawgit.com/zkreations/SheetSlider/master/dist/sheetslider.min.css"/>
 
 <center> <link rel="stylesheet" href="https://cdn.rawgit.com/zkreations/SheetSlider/master/dist/sheetslider.min.css"/>
-                <img src="https://drive.google.com/file/d/1jrws7jeyAb2e6yKMMrjrXbs7TSeJOBFV/view?usp=share_link" class="mx-auto d-block left-block" style= "width:100px; height:100px;"/img></center>
+                <img src="https://i.pinimg.com/564x/6b/db/cb/6bdbcb16360f7694e0d60cce0494fc8f.jpg" class="mx-auto d-block left-block" style= "width:100px; height:100px;"/img></center>
 
 </center>
 
@@ -59,15 +59,12 @@ OwlCarouselWidget::begin([
 ?>
 
 
-<div class="item-class"><img src="https://drive.google.com/file/d/1nDBRGc7LrXlEECv3-OW0Rqdodh_nnBHP/view?usp=share_link" alt="Image 1" style= "width:400px; height:300px;"></div>
-<div class="item-class"><img src="https://drive.google.com/file/d/1X9jEymHPzybc2HdNnfgaXGvim8CAf9JX/view?usp=share_link " alt="Image 2" style= "width:400px; height:300px;"></div>
-<div class="item-class"><img src="https://drive.google.com/file/d/101MWRSjfsQw-P-dW6MljqWLDtK5jFckY/view?usp=share_link " alt="Image 3" style= "width:400px; height:300px;"></div>
-<div class="item-class"><img src="https://drive.google.com/file/d/19to34CpHa2sr8V3oNsfi6QFggo371fk6/view?usp=share_link " alt="Image 4" style= "width:400px; height:300px"></div>
-<div class="item-class"><img src="https://drive.google.com/file/d/16cuexxEcbMxxSPaR95-5jlmkXnAPhsgZ/view?usp=share_link " alt="Image 5" style= "width:400px; height:300px;"></div>
-<div class="item-class"><img src="https://drive.google.com/file/d/1A7DcFBZ38857EzXkDZOYCQA0rr_BMcIR/view?usp=share_link " alt="Image 6" style= "width:400px; height:300px;"></div>
-
-
-
+<div class="item-class"><img src="https://i.pinimg.com/564x/3c/ef/2a/3cef2ab9874bd16bb69b9b512353f316.jpg" alt="Image 1" style= "width:400px; height:300px;"></div>
+<div class="item-class"><img src="https://i.pinimg.com/564x/14/97/3f/14973f85b23c311d43dfaaacb5e817e5.jpg" alt="Image 2" style= "width:400px; height:300px;"></div>
+<div class="item-class"><img src="https://i.pinimg.com/564x/d0/19/11/d019118f562ca13f8b38284e96dd5200.jpg" alt="Image 3" style= "width:400px; height:300px;"></div>
+<div class="item-class"><img src="https://i.pinimg.com/564x/7c/9f/91/7c9f91d13cc66599dab6a472d86e8d33.jpg" alt="Image 4" style= "width:400px; height:300px"></div>
+<div class="item-class"><img src="https://i.pinimg.com/564x/38/11/1a/38111aff616c90b464e4bd6dae009a18.jpg" alt="Image 5" style= "width:400px; height:300px;"></div>
+<div class="item-class"><img src="https://i.pinimg.com/564x/92/ce/78/92ce7800af21b5efe7d0a89e3b6e5215.jpg " alt="Image 6" style= "width:400px; height:300px;"></div>
 <?php OwlCarouselWidget::end(); ?>
 
 

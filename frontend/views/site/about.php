@@ -34,7 +34,7 @@ body {
 <p align="left">
              
              <link rel="stylesheet" href="https://cdn.rawgit.com/zkreations/SheetSlider/master/dist/sheetslider.min.css"/>
-                <img src="https://drive.google.com/file/d/1jrws7jeyAb2e6yKMMrjrXbs7TSeJOBFV/view?usp=share_link"  style= "width:100px; height:100px;"/img>
+                <img src="https://i.pinimg.com/564x/c3/e3/c0/c3e3c0c5e28ea49843efbe52e0038e75.jpg"  style= "width:100px; height:100px;"/img>
 
             <p/>
 <!-- ==== GREYWRAP ==== -->
