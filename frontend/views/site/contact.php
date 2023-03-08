@@ -152,38 +152,22 @@ table tr:nth-of-type(even) {
 <tbody>
   <tr>
     <td>1</td>
-    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/GejltlzmXd__AkcmZjhFacBQdoqwrEuL.pdf"> CONVOCATORIA 1ER SEMESTRE 2022B</a></td>
+    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/uCgICDaEL56QWDpznQD9F7qAynN7hyPh.pdf"> 	INGLÉS SEGUNDO SEMESTRE 2023A</a></td>
     
   </tr>
    <tr>
     <td>2</td>
-    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/_H3GxzwTG-uyh_rb7VgcB9lL2rR3fRZa.pdf">CONVOCATORIA 3RO/5TO SEMESTRE 2022B</a></td>
+    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/ukIcbrsBGg4MmphB9S-7Z2FheZeNaX6m.pdf">	INGLÉS CUARTO Y SEXTO SEMESTRE 2023A</a></td>
     
   </tr>
   <tr>
     <td>3</td>
-    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/OBvm1Y3SdvIw5NiHD95lJro7FuRkKw4g.pdf">CONVOCATORIA INTENSIVO ONLINE MATRICULA 16/15 Y ANTERIORES</a></td>
+    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/_sozABCmH9ckL6Xd4sOOslX0moCnKtG7.pdf">INGLÉS IRREGULARES SEMESTRE 2023A</a></td>
     
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/ebeoTG7TATXTvKAbUNu3YM12Tv91qvyB.pdf">CONVOCATORIA IRREGULARES 2022B</a></td>
-    
-  </tr>
-  <tr>
-    <td>5 </td>
-    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/OBvm1Y3SdvIw5NiHD95lJro7FuRkKw4g.pdf">CONVOCATORIA PREPARACION OOPT 2022B</a></td>
-    
-  </tr>
-  <tr>
-    <td>6 </td>
-    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/cwaDUCsUpOwOO3-P6ND7sTQ2l4L2d546.pdf">CONVOCATORIA RESIDENTES Y SEVICIO SOCIAL INGLES 2022B</a></td>
-    
-  </tr>
-
-   <tr>
-    <td>7</td>
-    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/Yx-0UC2a2tEb8wW_Q4dkfvCeY5Ui_JT3.pdf">CONVOCATORIA PERSONAL DOCENTE Y NO DOCENTE 2022B</a></td>
+    <td><a href="https://admin.valladolid.tecnm.mx/archivos/contenido/qaWyTqd1-4_GEk6YLl9BL6ksYW1_2FBU.pdf">INGLÉS INTENSIVOS SEMESTRE 2023A</a></td>
     
   </tr>
 </tbody>

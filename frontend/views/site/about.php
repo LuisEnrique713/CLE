@@ -34,7 +34,7 @@ body {
 <p align="left">
              
              <link rel="stylesheet" href="https://cdn.rawgit.com/zkreations/SheetSlider/master/dist/sheetslider.min.css"/>
-                <img src="https://scontent.fmex32-1.fna.fbcdn.net/v/t39.30808-6/310059160_114963978033895_8662542642385807604_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF8Ijvw4BjDWFT7W8WCED2ooUdH6iM2zP-hR0fqIzbM_w1Q0iqKeJIK_bgta2NDQzMnwvyccGidrHcQsu8VeaoE&_nc_ohc=zRuGm9pRuTgAX_sDJ9Z&_nc_ht=scontent.fmex32-1.fna&oh=00_AfCWK5H9-3LugwTj-_2gjOz9Pf5p07W9NKetzNUVsnna0g&oe=63BC6869"  style= "width:100px; height:100px;"/img>
+                <img src="https://drive.google.com/file/d/1jrws7jeyAb2e6yKMMrjrXbs7TSeJOBFV/view?usp=share_link"  style= "width:100px; height:100px;"/img>
 
             <p/>
 <!-- ==== GREYWRAP ==== -->
